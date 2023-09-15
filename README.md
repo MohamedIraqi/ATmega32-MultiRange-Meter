@@ -32,11 +32,11 @@ In this project, we leverage the power of the ATmega32 microcontroller to create
 
 ### AC Voltmeter Circuit
 
-![Voltmeter Circuit](AC.jpeg)
+![Voltmeter Circuit](AC.jpg)
 
 ### Ohmmeter Circuit
 
-![Ohmmeter Circuit](Ohmmeter.jpeg)
+![Ohmmeter Circuit](Ohmmeter.jpg)
 
 ## Getting Started
 
