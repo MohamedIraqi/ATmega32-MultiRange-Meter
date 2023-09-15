@@ -4,7 +4,6 @@
 
 This project implements a multi-range electronic voltmeter and ohmmeter using the ATmega32 microcontroller. The system is designed to display the value of an AC voltage signal on an LCD screen and measure resistance across multiple ranges. 
 
-![Project Image](link-to-your-image.png)
 
 ## Table of Contents
 
