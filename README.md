@@ -57,5 +57,5 @@ To get started with this project, follow these steps:
 
 ## Code
 
-The project code for the ATmega32 microcontroller is available in the [Code](/code) directory of this repository.
+The project code for the ATmega32 microcontroller is available in the [Code](/) directory of this repository.
 
